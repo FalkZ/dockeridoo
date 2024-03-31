@@ -1,0 +1,14 @@
+{
+	"name": "dockeridoo",
+	"version": "0.0.7",
+	"description": "",
+	"bin": {
+		"dodoo": "./src/dodoo.js"
+	},
+	"type": "module",
+	"keywords": [],
+	"author": "",
+	"devDependencies": {
+		"typescript": "^5.3.3"
+	}
+}
