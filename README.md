@@ -1,6 +1,6 @@
 # Dockeridoo
 
-![Dockeridoo Mascot](./dockeridoo.png)
+![Dockeridoo Mascot](https://raw.githubusercontent.com/FalkZ/dockeridoo/main/dockeridoo.png)
 
 > The "easiest" way to run docker images as cli tools.
 
